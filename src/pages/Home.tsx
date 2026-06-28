@@ -56,7 +56,7 @@ function Hero() {
 
           <motion.p initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6, delay: 0.3 }}
             className="mt-6 text-lg text-muted-foreground max-w-lg leading-relaxed">
-            Clean, plant-powered supplements and personalised nutrition crafted for the way you live, train and thrive.
+            We teach you master the art of nutritius cooking or we will make you nourishing dishes organic ingredients sourced carefully
           </motion.p>
 
           <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6, delay: 0.45 }}
